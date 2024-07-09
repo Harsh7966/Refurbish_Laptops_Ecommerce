@@ -48,23 +48,20 @@ Once the project is set up, you can explore the following functionalities:
 
 
 Panels
+
 The project consists of two main panels: User Panel and Admin Panel.
 
 User Panel
-The User Panel provides functionalities for regular users, including:
-
-User Registration and Login: Users can create accounts and log in to access personalized features.
-Browse Products: Users can view a catalog of refurbished laptops with detailed information and images.
-Shopping Cart: Users can add laptops to their cart, update quantities, and proceed to checkout.
-Order History: Users can view their past orders and track the status of current orders.
-Customer Support: Users can contact support for any issues or inquiries.
+- User Registration and Login: Users can create accounts and log in to access personalized features.
+- Browse Products: Users can view a catalog of refurbished laptops with detailed information and images.
+- Shopping Cart: Users can add laptops to their cart, update quantities, and proceed to checkout.
+- Order History: Users can view their past orders and track the status of current orders.
+- Customer Support: Users can contact support for any issues or inquiries.
 
 Admin Panel
-The Admin Panel provides functionalities for site administrators to manage the e-commerce platform, including:
-
-Admin Login: Secure login for administrators to access the admin panel.
-Dashboard: Overview of key metrics such as total sales, number of orders, and user statistics.
-Product Management: Add, edit, or remove products from the catalog, including uploading images and providing detailed descriptions.
-Order Management: View and manage customer orders, update order statuses.
-User Management: View and manage user accounts and updating user information.
-Customer Support Management: Handle customer inquiries and issues through an integrated support system.
+- Admin Login: Secure login for administrators to access the admin panel.
+- Dashboard: Overview of key metrics such as total sales, number of orders, and user statistics.
+- Product Management: Add, edit, or remove products from the catalog, including uploading images and providing detailed descriptions.
+- Order Management: View and manage customer orders, update order statuses.
+- User Management: View and manage user accounts and updating user information.
+- Customer Support Management: Handle customer inquiries and issues through an integrated support system.
