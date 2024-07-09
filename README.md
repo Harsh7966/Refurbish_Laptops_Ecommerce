@@ -10,6 +10,7 @@ Table of Contents
 5. Panels
    
 Project Overview
+
 The Refurbish Laptops E-commerce Website is an online platform dedicated to selling high-quality refurbished laptops. Our goal is to provide affordable, reliable, and sustainable computing options to consumers while promoting the reuse and recycling of electronic devices.
 
 Features
