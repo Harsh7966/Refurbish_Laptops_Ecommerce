@@ -22,6 +22,7 @@ Features
 - Customer Support: Integrated customer support for inquiries and assistance.
 
 Installation
+
 To set up the project locally, follow these steps:
 
 1. Clone the Repository:
@@ -40,6 +41,7 @@ To set up the project locally, follow these steps:
    The application will be available at `http://localhost:3000`.
 
 Usage
+
 Once the project is set up, you can explore the following functionalities:
 
 - Browse Products: View available laptops with detailed information.
