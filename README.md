@@ -8,6 +8,7 @@ Table of Contents
 3. Installation
 4. Usage
 5. Panels
+6. Technologies Used
    
 Project Overview
 
@@ -69,3 +70,11 @@ Admin Panel
 - Order Management: View and manage customer orders, update order statuses.
 - User Management: View and manage user accounts and updating user information.
 - Customer Support Management: Handle customer inquiries and issues through an integrated support system.
+
+
+Technologies Used
+
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap
+- Backend: Node.js, Express
+- Database: MongoDB
+- Authentication: JWT (JSON Web Tokens)
