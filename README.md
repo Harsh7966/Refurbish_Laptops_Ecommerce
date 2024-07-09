@@ -39,6 +39,7 @@ To set up the project locally, follow these steps:
 
 4. Run the Development Server:
    npm start
+   
    The application will be available at `http://localhost:3000`.
 
 Usage
